@@ -1,10 +1,10 @@
 ---
 title: "Exploring Socio-Demographic Factors Influencing Health Perceptions in Canada"
-subtitle: "The study exposes significant influence of age group and geography on health."
+subtitle: "The study demonstrates that age group and geography significantly influence health perceptions, resulting in disparities where younger populations and specific regions report higher perceived health values."
 author: 
   - Qizhou Xie
 thanks: "Code and data are available at: https://github.com/tx77777/health_survey.git."
-date: today
+date: 2024/12/2
 date-format: long
 abstract: "The strategic targeting of health perception variables is essential for understanding public health outcomes across different demographics.This study investigates the socio-demographic factors influencing health perceptions in Canada by employing Bayesian ordered linear regression. By analyzing key variables—such as age group, gender, year, and geography—this research identifies trends in health percentage estimates over time.The analysis emphasizes how these factors contributed to the prioritization of health perceptions among different demographics, focusing on the disparities observed between age groups and genders."
 format: pdf
